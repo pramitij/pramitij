@@ -10,7 +10,7 @@ Hello World 👋 It's [Pramithi !](https://pramitij.github.io)
 <a href="https://www.linkedin.com/in/pramithi-jagdish/">
 <img align="left" alt="Pramithi Jagdish" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<!--
+
 <a href="https://medium.com/">
 <img align="left" alt="Pramithi Jagdish" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -21,7 +21,7 @@ Hello World 👋 It's [Pramithi !](https://pramitij.github.io)
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br />
--->
+
 <br />
 
 Hi, I'm Pramithi Jagdish🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
