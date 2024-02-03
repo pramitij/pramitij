@@ -24,13 +24,13 @@ Hello World 👋 It's [Pramithi !](https://pramitij.github.io)
 
 Hi, I'm Pramithi Jagdish🙌, a Full-Stack Software Engineer with an eye for integrating Machine Learning and robust Cloud Infrastructure to build solutions that drive efficiency, scalability, and stability. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
-
+<!--
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently a grad student at Northeastern University.
 - 🌱 I’m currently learning Angular.
 - 👯 Part of Developer Community.
-<!--
+
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
