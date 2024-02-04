@@ -1,73 +1,52 @@
-Hello World 👋 It's [Pramithi !](https://pramitij.github.io)
+# Hey I'm [Pramithi !](https://pramitij.github.io) 👋 Welcome to my GitHub!
+
+## 👩🏽‍💻 Software Engineer | 💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast 
+
+I'm a Software Engineer with experience across full-stack development and data engineering, with an eye for integrating Machine Learning and robust Cloud Infrastructure to build solutions that drive efficiency, scalability, and stability. From optimizing API performance at Amazon Robotics to pioneering data operations at Accenture, I've embraced the challenge of driving efficiency in every line of code. 
+
+As a grad student at Northeastern University, I've been learning and experimenting with a bunch of fun technologies, check out some of my recent Projects exploring Practical applications of GenAI using the transformative power of LLMs.
+
+### 💡 Recent Projects
+
+- [Intelligent Data Processing System](#) - Leveraging ML models for predictive analytics.
+- [Generative AI Chatbot](#) - Developed with TensorFlow and deployed via AWS.
+
+### 🚀 TechStack
+
+**Languages & Tools**: Java, JavaScript(ES6+), Python3, HTML5, CSS3, C, C++, Git, IntelliJ, Postman, Kubernetes
+**Databases & OS**: MySQL, PostgreSQL, NoSQL, MongoDB, DynamoDB, ChromaDB, Windows, MacOS, Linux
+**Cloud Technologies**: Lambda, GitHub Actions, Jenkins, Docker, CloudFormation, CodeDeploy, IAM, EC2, S3, Route53
+**Web Frameworks**: React.js, Node.js, React Native, Gatsby, jQuery, Spring, Websockets, OAuth2, Streamlit
+**ML & DS**: TensorFlow, PyTorch, Scikit-Learn, OpenAI API, PySpark, Pandas, NumPy, Keras, Hugging Face, Matplotlib
+
+### More Projects
+
+- Kubernetes and microservices orchestration
+- Scalable ML deployment with MLOps
+
+### 📫 How to reach me
+
+- LinkedIn: [Pramithi Jagdish](linkedin.com/in/pramithi-jagdish)
+- Email: jagdish.p@northeastern.edu
+
+### 📱 Socials  
 
 <br/>
-
 <a href="https://twitter.com/ByteBabe_">
 <img align="left" alt="Pramithi Jagdish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/pramithi-jagdish/">
 <img align="left" alt="Pramithi Jagdish" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />
-  
-<!-- <img align="left" alt="Pramithi Jagdish" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> -->
 </a>
-
 <a href="https://medium.com/@bytebabe">
 <img align="left" alt="Pramithi Jagdish" width="22px" src="https://www.svgrepo.com/show/512457/medium-149.svg" />
-<!-- <img align="left" alt="Pramithi Jagdish" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> -->
 </a> 
 <a href="https://www.instagram.com/pramithijagdish/">
 <img align="left" alt="Pramithi Jagdish" width="22px" src="https://www.svgrepo.com/show/14412/instagram.svg" />
-<!-- <img align="left" alt="Pramithi Jagdish" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> -->  
 </a>
-<br />
+<br/>
 
-Hi, I'm Pramithi Jagdish🙌, a Full-Stack Software Engineer with an eye for integrating Machine Learning and robust Cloud Infrastructure to build solutions that drive efficiency, scalability, and stability. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+### 👩🏽‍💼 Open to Work! 
 
-<!--
-**Talking about Personal Stuffs:**
+Thank you for taking the time to learn a little about me. I’m currently seeking full-time roles within the Software Development, AIML, Cloud Infrastructure & Data domains. If you are seeking a driven, result-oriented Software Engineer who values continuous learning and improvement, I'd love to hear from you. Let's connect to explore opportunities and expand our networks!
 
-- 🔭 I’m currently a grad student at Northeastern University.
-- 🌱 I’m currently learning Angular.
-- 👯 Part of Developer Community.
-
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
-
-
-
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
--->  
-**Languages and Tools:**
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<!--
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
-
-**pramitij/pramitij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
