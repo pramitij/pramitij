@@ -39,7 +39,7 @@ As a grad student at Northeastern University, I've been learning and experimenti
 <img align="left" alt="Pramithi Jagdish" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />
 </a>
 <a href="https://medium.com/@bytebabe">
-<img align="left" alt="Pramithi Jagdish" width="22px" src="https://www.svgrepo.com/show/419920/medium.svg" />
+<img align="left" alt="Pramithi Jagdish" width="22px" src="https://www.svgrepo.com/show/449830/medium.svg" />
 </a> 
 <a href="https://www.instagram.com/pramithijagdish/">
 <img align="left" alt="Pramithi Jagdish" width="22px" src="https://www.svgrepo.com/show/14412/instagram.svg" />
@@ -48,5 +48,5 @@ As a grad student at Northeastern University, I've been learning and experimenti
 
 ### 👩🏽‍💼 Open to Work! 
 
-Thank you for taking the time to learn a little about me. I’m currently seeking full-time roles within the Software Development, AIML, Cloud Infrastructure & Data domains. If you are seeking a driven, result-oriented Software Engineer who values continuous learning and improvement, I'd love to hear from you. Let's connect to explore opportunities and expand our networks!
+Thank you for taking the time to learn a little about me. I’m currently seeking full-time roles within the Software Development, AI/ML, Cloud Infrastructure & Data domains. If you are seeking a driven, result-oriented Software Engineer who values continuous learning and improvement, I'd love to hear from you. Let's connect to explore opportunities and expand our networks!
 
