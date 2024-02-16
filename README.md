@@ -2,7 +2,7 @@
 
 ### 👩🏽‍💻 Software Engineer | 💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast
 
-I'm a Software Engineer with experience across backend and full-stack development, with an eye for integrating Machine Learning and robust Cloud Infrastructure to build solutions that drive efficiency, scalability, and stability. From optimizing API performance at Amazon Robotics to pioneering data operations at Accenture, I've embraced the challenge of driving efficiency in every line of code. 
+I'm a Software Engineer with experience across backend and full-stack development, with an eye for integrating Machine Learning and robust Cloud Infrastructure to build solutions that drive efficiency, scalability, and stability. From optimizing robotic performance at Amazon Robotics to pioneering data operations at Accenture, I've embraced the challenge of driving efficiency in every line of code. 
 
 As a grad student at Northeastern University, I've been learning and experimenting with a bunch of fun technologies, check out some of my recent Projects exploring Practical applications of GenAI using the transformative power of LLMs.
 
