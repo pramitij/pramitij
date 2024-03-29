@@ -34,13 +34,13 @@ As a grad student at Northeastern University, I've been learning and experimenti
 ### 📱 Socials  
 
 <br/>
-<a href="https://twitter.com/ByteBabe_">
+<a href="https://twitter.com/CodeQuestX">
 <img align="left" alt="Pramithi Jagdish | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pramithi-jagdish/">
 <img align="left" alt="Pramithi Jagdish" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />
 </a>
-<a href="https://medium.com/@bytebabe">
+<a href="https://medium.com/@CodeQuest">
 <img align="left" alt="Pramithi Jagdish" width="22px" src="https://www.svgrepo.com/show/449830/medium.svg" />
 </a> 
 <a href="https://www.instagram.com/pramithijagdish/">
