@@ -8,8 +8,10 @@ As a grad student at Northeastern University, I've been learning and experimenti
 
 ### 💡 Recent Projects
 
-- [Medical-Image-Generation](https://github.com/pramitij/Medical-Image-Generation) - Leveraging ML models to build a system that generates images of skin rashes based on textual commands using stable-diffusion and dreambooth.
+- [CNN Architectural Variations: Performance Study](https://github.com/pramitij/CNN-Architectural-Variations-Performance-Study) -  I investigate how various architectural modifications within a Convolutional Neural Network (CNN) impact its ability to classify CIFAR-10 images. Specifically, I explore the effects of Batch Normalization, Dropout, the number of convolution and pooling layers, and different activation functions on the model's performance.
 - [Generative AI Chatbot](https://github.com/pramitij/LLM-Powered-Travel-Agency-ChatBot) - Developed a sophisticated chatbot leveraging OpenAI’s GPT-4 for natural dialogue, integrated with a custom database and RAG system to provide intuitive context-aware responses through a Streamlit web interface
+- [Medical-Image-Generation](https://github.com/pramitij/Medical-Image-Generation) - Leveraging ML models to build a system that generates images of skin rashes based on textual commands using stable-diffusion and dreambooth.
+
 
 ### 🚀 TechStack
 
